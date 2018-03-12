@@ -1,0 +1,35 @@
+Sprint Report
+
+Name                                    Ryan Fretwell, Jack Perrin, Jack
+Walsh, Shaquille Pearce, Eileen Siombo. 
+
+P Number                           P15238469,
+P1620036X, P16215514, P16200157, P1620864X
+
+Module Name and Code              Business
+Intelligence 
+
+Week number                                   0
+
+One of
+these reports must be completed for each week of the sprint. This
+document is to be submitted at the sprint meeting with your tutor.   You need to evidence that you are up to date
+with the work set by: bringing samples of work completed so far, verbal
+discussion of how you are doing and written evidence in the form of this report.
+
+ALL DOCUMENTS MUST BE
+PRINTED OFF IN ADVANCE OF THE MEETING AND PREFERABLY STAPLED TOGETHER.  YOUR TUTOR RESERVES THE RIGHT TO REFUSE
+SUBMISSION IF IT IS NOT READY IN TIME FOR YOUR MEETING!
+
+What did you achieve during this week?  Include what went well – what didn’t go well
+and what you plan to do about any issues. (150 - 200 words)
+
+This week in the lab we tried to push last week’s lab work to the master, 
+We had a lot of problems with doing this the problem was to do with the original master which kept conflicting with the new master. 
+We tried a number of things and couldn't get the merge what we ended up doing this deleting everything in the old master and pushing the new branch.
+Then creating a pull request so there won't be any conflicts. 
+So what we decided to do was to just work on one pc and complete week 23 lab work as a team. 
+We found the lab work no problems and added data lists that contain all of the data we wanted too. 
+But found getting the items in the correct format, was hard until we used, format that was given to use
+Apart from that the work was no problem and we should be ready for the assignment.
+

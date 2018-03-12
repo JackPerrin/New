@@ -1,0 +1,24 @@
+Sprint Report
+
+Name                                    Ryan Fretwell, Jack Perrin, JackWalsh, Shaquille Pearce, Eileen Siombo. 
+P Number                           P15238469,P1620036X, P16215514, P16200157, P1620864X
+
+Module Name and Code              BusinessIntelligence 
+
+Week number                                   2
+
+One of these reports must be completed for each week of the sprint. Thisdocument is to be submitted at the sprint meeting with your tutor.   You need to evidence that you are up to datewith the work set by: bringing samples of work completed so far, verbaldiscussion of how you are doing and written evidence in the form of this report.
+ALL DOCUMENTS MUST BEPRINTED OFF IN ADVANCE OF THE MEETING AND PREFERABLY STAPLED TOGETHER.  
+YOUR TUTOR RESERVES THE RIGHT TO REFUSESUBMISSION IF IT IS NOT READY IN TIME FOR YOUR MEETING!
+
+What did you achieve during this week?  Include what went well – 
+what didn’t go well and what you plan to do about any issues. (150 - 200 words)
+
+
+In this weeks lab, we are still having issues with attempting to push last week's work to the master branch, 
+conflict between last week's work and work in the master branch still occurs. although we have tried to sort the conflict problems, 
+it is still not merging. we are going to overcome this issue by seeking help from Tom. 
+also, this week we have used the dimensions tables which we made last week to populate a fact table.
+This is where the fact table consists of multiple dimension tables e.g, Date and Time.
+so far, creating the fact table is going well and we plan to fiinish this by next week. 
+

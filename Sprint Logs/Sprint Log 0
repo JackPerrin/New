@@ -1,0 +1,42 @@
+
+
+Sprint Report
+
+Name                                    Ryan Fretwell, Jack Perrin, Jack
+Walsh, Shaquille Pearce, Eileen Siombo. 
+
+P Number                           P15238469,
+P1620036X, P16215514, P16200157, P1620864X
+
+Module Name and Code              Business
+Intelligence 
+
+Week number                                   0
+
+One of
+these reports must be completed for each week of the sprint. This
+document is to be submitted at the sprint meeting with your tutor.   You need to evidence that you are up to date
+with the work set by: bringing samples of work completed so far, verbal
+discussion of how you are doing and written evidence in the form of this report.
+
+ALL DOCUMENTS MUST BE
+PRINTED OFF IN ADVANCE OF THE MEETING AND PREFERABLY STAPLED TOGETHER.  YOUR TUTOR RESERVES THE RIGHT TO REFUSE
+SUBMISSION IF IT IS NOT READY IN TIME FOR YOUR MEETING!
+
+What did you achieve during this week?  Include what went well – what didn’t go well
+and what you plan to do about any issues. (150 - 200 words)
+
+This week in the labs we created the team’s repository for
+our Business Intelligence system. Once we had created the Repository the team
+and each member had been invited, we had to mirror a repository that had
+already been created that will be basis of our project, by mirroring a
+repository we are able to change the code and make it our own and make as many
+changes as we need to do. Once one person in the team had created the teams
+repository, all the members of the team had to make sure the first source
+database was accessible. Once this was working and we accessed the database we
+had to create a sheet called ‘Sheet1’ and execute a SQL query with different
+dates [Order Date] and [Ship Date], then on the main Program form we had to put
+a list box and a button. The button gives us an easy trigger to start the
+process and the list box allows us to confirm what different data we are receiving.
+
+
